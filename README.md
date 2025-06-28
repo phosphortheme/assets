@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/phosphortheme/assets/master/icons/icon-bright-bg.png" width="100" alt="icon"/>
+    <img src="https://raw.githubusercontent.com/phosphortheme/assets/refs/heads/main/icons/icon-bright.svg" width="100" alt="icon"/>
     <br><br>
     Assets for the <a href="https://github.com/phosphortheme/phosphor">Phosphor Theme</a>
 </h3>
